@@ -4,3 +4,8 @@ torchvision
 torchaudio
 accelerate
 sentence-transformers
+gensim
+datasets
+python-dotenv
+openai
+cohere
