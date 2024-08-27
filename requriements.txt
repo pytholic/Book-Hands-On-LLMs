@@ -9,3 +9,6 @@ datasets
 python-dotenv
 openai
 cohere
+umap-learn
+hdbscan
+bertopic
