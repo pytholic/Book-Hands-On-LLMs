@@ -12,3 +12,4 @@ cohere
 umap-learn
 hdbscan
 bertopic
+datamapplot
