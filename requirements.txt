@@ -18,3 +18,5 @@ langchain-community
 langchain-core
 duckduckgo-search
 numexpr
+rank_bm25 
+faiss-gpu
