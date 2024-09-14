@@ -13,3 +13,8 @@ umap-learn
 hdbscan
 bertopic
 datamapplot
+langchain
+langchain-community 
+langchain-core
+duckduckgo-search
+numexpr
