@@ -2,5 +2,5 @@
 *.pickle
 topic_model/
 tmp/
-ch10/base_embedding_model/
-ch10/results
+ch10/*
+!ch10/*.ipynb
