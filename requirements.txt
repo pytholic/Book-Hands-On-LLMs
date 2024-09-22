@@ -21,3 +21,4 @@ numexpr
 rank_bm25 
 faiss-gpu
 mteb
+nltk
