@@ -4,3 +4,5 @@ topic_model/
 tmp/
 ch10/*
 !ch10/*.ipynb
+ch11/*
+!ch11/main.ipynb
