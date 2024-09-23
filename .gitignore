@@ -7,3 +7,5 @@ ch10/*
 ch11/*
 !ch11/main.ipynb
 !ch11/multiple_frozen_blocks.png
+ch12/*
+!ch12/main.ipynb

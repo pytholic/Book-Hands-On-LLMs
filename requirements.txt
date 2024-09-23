@@ -25,3 +25,6 @@ nltk
 evaluate
 setfit
 seqeval
+bitsandbytes
+peft
+trl
